@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tRFG8N5O3Uy7gb8wcdsHzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" CVScreenId="8882e1a1-6c98-4c92-b732-d08767a38295" DesignTimeRectangle="9, 355, 275, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='H4' /&gt;" Guid="26924a5f-6ac5-4f20-b9c4-7959124ad9aa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedemiddag Olaf!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="9, 180, 275, 155" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="58f93a2a-b5dc-4e0a-aa48-be18bb3e68e0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9fa11dbc66a750ed947a5f37e3f06175.png" xmlns="">0ET8ril5mcUSFP5OjgX3W7A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

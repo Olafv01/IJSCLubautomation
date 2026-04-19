@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4mlt7Ts3qE2gI-jsxu4GqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" DesignTimeRectangle="1222, 293, 91, 22" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="78ed0c02-8715-4d13-941d-742dbbbc9f42" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedenavond Olaf!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1087, 222, 687, 35" ElementType="Text" FullSelectorArgument="&lt;webctrl type='' tag='H4' class='pl-3 pt-2 quick-search-result-header' aaname=' Personen ' /&gt;" Guid="2f77f15a-d372-40a0-8ad5-37f695763370" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8806a028575fc74582609e27dfd2a2b0.png" xmlns="">0KqGJOCXu8Ey3qq2TxeBGJA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

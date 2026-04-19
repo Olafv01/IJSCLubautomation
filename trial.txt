@@ -1,0 +1,145 @@
+["Beste Olaf Verburg,
+
+Bedankt voor je inschrijving. Hieronder vind je een overzicht van de door jou ingevulde gegevens en gekozen trainingen.
+
+---
+
+**Persoonlijke gegevens**
+Naam: Olaf Verburg
+Adres: vrouwensteeg 2a
+Postcode / Plaats: 2312dz
+Telefoonnummer: 0624492104
+E-mailadres: olaf.verburg@gmail.com
+Geboorte datum: [your-birth]
+
+---
+
+**Gekozen trainingen**
+
+**Leiden – Jeugd (LJ)**
+LJ_DI2 Dinsdag 19.15-20.15 uur (snel uur/gevorderden vanaf welp 2de jaars (<55.0 sec/2 rnd))
+LJ_DO1 
+
+**Leiden – Recreanten (LR)**
+LR_MA2 
+LR_DO2 
+LR_VR 
+LR_ZA1 
+
+**Den Haag – Trainingen (DH)**
+DH_MA1 
+DH_MA2 
+DH_DI1 
+DH_DI2 
+DH_WO1 
+DH_WO2 
+DH_WO3 
+DH_DO1 
+DH_DO2 
+DH_VR1 
+DH_VR2 
+
+---
+
+**Opties**
+
+Leiden
+WedstrijdenLeiden: Ik doe mee.
+Training_Geven_Leiden 
+
+Den Haag
+LangeBaanWedstrijden: 
+MarathonWedstrijden: 
+ZesBanen: 
+: 
+Ik heb nog een normaal kaartje(schaatser): 
+Doorlooppasje(Begeleider): 
+Stoppen: 
+TrainerDH: 
+
+---
+
+**Aanvullende informatie**
+Opmerking / onderwerp: [your-subject]
+
+Akkoordverklaring:
+JaNAw: Ja, ik geef toestemming voor het gebruik van beeldmateriaal op de website van de ijsclub en overige social media van de ijsclub.
+NeeNAw: 
+
+---
+
+Mocht je nog vragen hebben of iets willen wijzigen, neem dan gerust contact met ons op door te reageren op deze e-mail.
+
+", "Beste Firstname Lastname,
+
+Bedankt voor je inschrijving. Hieronder vind je een overzicht van de door jou ingevulde gegevens en gekozen trainingen.
+
+---
+
+**Persoonlijke gegevens**
+Naam: Firstname Lastname
+Adres: Street 123
+Postcode / Plaats: 1234 AB Stompwijk
+Telefoonnummer: 0612345678
+E-mailadres: henshensen530@gmail.com
+Geboorte datum: [your-birth]
+
+---
+
+**Gekozen trainingen**
+
+**Leiden – Jeugd (LJ)**
+LJ_DI2 Dinsdag 19.15-20.15 uur (snel uur/gevorderden vanaf welp 2de jaars (<55.0 sec/2 rnd))
+LJ_DO1 
+
+**Leiden – Recreanten (LR)**
+LR_MA2 
+LR_DO2 
+LR_VR Vrijdag 19.15-20.15 uur
+LR_ZA1 
+
+**Den Haag – Trainingen (DH)**
+DH_MA1 
+DH_MA2 
+DH_DI1 
+DH_DI2 
+DH_WO1 Woensdag 1 17.00-18.15 uur, Pupillen, jun. C, jun. B
+DH_WO2 
+DH_WO3 Woensdag 3 22.00-23.15 uur, (neo)senioren, Junioren A
+DH_DO1 
+DH_DO2 Donderdag 2 18.30-19.45 uur, (neo)senioren, Jun. A, B
+DH_VR1 
+DH_VR2 
+
+---
+
+**Opties**
+
+Leiden
+WedstrijdenLeiden: Ik doe mee.
+Training_Geven_Leiden 
+
+Den Haag
+LangeBaanWedstrijden: Ik doe mee aan langebaanwedstrijden op de Uithof
+MarathonWedstrijden: 
+ZesBanen: Ik doe mee aan de zes banen competitie
+: 
+Ik heb nog een normaal kaartje(schaatser): 
+Doorlooppasje(Begeleider): 
+Stoppen: 
+TrainerDH: 
+
+---
+
+**Aanvullende informatie**
+Opmerking / onderwerp: [your-subject]
+
+Akkoordverklaring:
+JaNAw: Ja, ik geef toestemming voor het gebruik van beeldmateriaal op de website van de ijsclub en overige social media van de ijsclub.
+NeeNAw: 
+
+---
+
+Mocht je nog vragen hebben of iets willen wijzigen, neem dan gerust contact met ons op door te reageren op deze e-mail.
+
+", ""]

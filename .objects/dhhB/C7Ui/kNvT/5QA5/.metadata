@@ -1,0 +1,17 @@
+﻿{
+  "Name": "PersonenBtn",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5QA5WGNenU6aVXh7o8Ga_A",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/5QA5WGNenU6aVXh7o8Ga_A",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/kNvTdnW6k0OtyWvqUPalGQ",
+  "Created": "2026-01-22T19:42:57.9732684Z",
+  "Updated": "2026-01-26T20:15:21.6934122Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

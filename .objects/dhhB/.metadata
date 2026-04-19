@@ -1,0 +1,15 @@
+﻿{
+  "Name": "VereniginsManager",
+  "Type": "App",
+  "Id": "dhhB7UjzPEaK9JBlxPPiMg",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/dhhB7UjzPEaK9JBlxPPiMg",
+  "Created": "2026-01-10T13:48:21.5781773Z",
+  "Updated": "2026-01-26T20:14:59.1913144Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

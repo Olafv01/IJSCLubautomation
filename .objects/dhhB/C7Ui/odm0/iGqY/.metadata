@@ -1,0 +1,17 @@
+﻿{
+  "Name": "NaamPersoon",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "iGqY_QpJTEC4aF6e-iEpXw",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/iGqY_QpJTEC4aF6e-iEpXw",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/odm0Gg9fUkCssbSV0QRLog",
+  "Created": "2026-01-26T20:19:21.1145839Z",
+  "Updated": "2026-01-26T20:21:24.109099Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

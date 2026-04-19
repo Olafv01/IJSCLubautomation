@@ -1,0 +1,16 @@
+﻿{
+  "Name": "PersoonsInformatie",
+  "Type": "Screen",
+  "Id": "odm0Gg9fUkCssbSV0QRLog",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/odm0Gg9fUkCssbSV0QRLog",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/C7Ui3jOAgkysK3dmosxQxg",
+  "Created": "2026-01-26T20:19:20.9551823Z",
+  "Updated": "2026-01-26T20:21:11.9238292Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

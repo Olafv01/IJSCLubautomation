@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CAU02GqXjUmDz943K0_hkQ" Reference="UkcggOlm2EKWnk4wPmGCWQ/IJ3iDAkzpEq8eqqQA8FVMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/person/10163416" DesignTimeRectangle="677, 216, 180, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Abonnement toevoegen' class='modal-title' /&gt;" Guid="6173c6d1-d712-4872-91f0-48540b2ef8d2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Persoon Olaf Verburg' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="eb459d93ab7b45e6e91d5b07d666da4a.png" xmlns="">06-ZovGfjFEGaFKWbt-sZjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

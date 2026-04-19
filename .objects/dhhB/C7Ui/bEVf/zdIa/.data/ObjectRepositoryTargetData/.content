@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oHKKeHsYik655h3CP_UB8g" Reference="UkcggOlm2EKWnk4wPmGCWQ/zdIa9sLIukqiDqII78gZ_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/people" DesignTimeRectangle="1762, 406, 94, 39" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__BVID__47' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='BUTTON' type='button' aaname='Acties' /&gt;" Guid="9797ebf3-6ca7-4b18-a639-5aea7211650e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Personen overzicht' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="dfa405ede125567855ef6e2a17a2cc33.png" xmlns="">0q9-bQcht7kKpSHDx4Z1Fhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

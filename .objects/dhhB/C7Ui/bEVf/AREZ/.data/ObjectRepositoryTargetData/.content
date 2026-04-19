@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9ao2-rYOVkeB-rbyq6V9-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/people" DesignTimeRectangle="975, 287, 285, 41" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='__BVID__1705' tag='SELECT' type='' class='custom-select custom-select-md' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="6d6a5e31-e4a2-437c-88ef-8a7ebacf7068" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Personen overzicht' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="677, 296, 286, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Export definitie ' tag='DIV' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Export definitie' /&gt;" Guid="9e001ec5-fed2-414c-9cf7-64e08be2eb90" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0716b2e66ea15e401b32a1a4a7c62252.png" xmlns="">04Avg8ngEuUWMeeIpSLgMWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Acties",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "zdIa9sLIukqiDqII78gZ_w",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/zdIa9sLIukqiDqII78gZ_w",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/bEVfi7vkBUCaTSw0VetVfw",
+  "Created": "2026-01-10T14:12:25.6505986Z",
+  "Updated": "2026-01-10T14:12:25.6505986Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

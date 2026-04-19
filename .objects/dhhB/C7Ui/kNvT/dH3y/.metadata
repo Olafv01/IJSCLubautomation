@@ -1,0 +1,17 @@
+﻿{
+  "Name": "PersonenSrcRes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "dH3yOHBj-0KfEFLxc8OoDQ",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/dH3yOHBj-0KfEFLxc8OoDQ",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/kNvTdnW6k0OtyWvqUPalGQ",
+  "Created": "2026-01-26T20:11:36.706532Z",
+  "Updated": "2026-01-26T20:15:32.4296123Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="al96CwSkaU6I29escSn-wA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" DesignTimeRectangle="9, 441, 275, 42" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' parentclass='sidebar-nav' tag='A' check:text='{0}' /&gt;&quot;, ButtonName)]" Guid="90d8fea7-7415-4cc0-8a99-559315546fc7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedemiddag Olaf!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="150f9a88ef73345a47a50f359d28a026.png" xmlns="">0XWhVgty0D0OP88d8Ad-dAQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="ButtonName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

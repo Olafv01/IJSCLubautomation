@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Abonnement",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "MriWrshHIUSTnhYGJNEAOQ",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/MriWrshHIUSTnhYGJNEAOQ",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/odm0Gg9fUkCssbSV0QRLog",
+  "Created": "2026-01-26T20:56:01.2040897Z",
+  "Updated": "2026-01-26T20:56:01.2040897Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

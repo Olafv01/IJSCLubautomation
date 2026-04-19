@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VGmgHHJGvkWaKwVC2yU4CA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/person/10163416" DesignTimeRectangle="328, 369, 316, 320" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='vue-app' tag='IMG' /&gt;" Guid="dde2af0c-1ab7-4b1f-a6b4-d6bb1fa68886" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Persoon Olaf Verburg' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7a465f36911c115c173eeb3c28919305.png" xmlns="">0RXdHeoC160uCC5g_usBVhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,154 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="AddPerson" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="AddPerson_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="AddPerson" sap:VirtualizedContainerService.HintSize="897.2,1187.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Goedenavond" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="451.2,1164" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="5ea261b8-95b6-4d39-be5a-02fc3b415e0f" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,970.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,178.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Opening people overview, to add new person&quot;]" />
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Personen'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,269.6" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="5ea261b8-95b6-4d39-be5a-02fc3b415e0f" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" ContentHash="SIpjU9RR5U297cGMV6gBdA" DesignTimeRectangle="9, 441, 275, 42" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Personen' parentclass='sidebar-nav' /&gt;" Guid="a37bda7e-4706-48f0-b5f6-529343d2ba97" InformativeScreenshot="86e929e822537ac769cb279231250c78.png" Reference="UkcggOlm2EKWnk4wPmGCWQ/5QA5WGNenU6aVXh7o8Ga_A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedenavond Olaf!' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None" />
+              </uix:NClick.Target>
+              <uix:NClick.VerifyOptions>
+                <uix:VerifyExecutionOptions DisplayName="Verification target" Mode="Appears">
+                  <uix:VerifyExecutionOptions.Target>
+                    <uix:TargetAnchorable BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" ContentHash="cxR8WObOMEWZtbeIW8khAg" DesignTimeRectangle="11, 483, 273, 40" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__BVID__30' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='A' aaname=' Overzicht ' /&gt;" Guid="ebddc9b2-2f43-47b0-baf3-bccca46caa37" InformativeScreenshot="bb75dfab6d9aae0ca16de214184c817c.png" Reference="UkcggOlm2EKWnk4wPmGCWQ/AxD1X0EInEuJI2Bnp9weTQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedemiddag Olaf!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None" />
+                  </uix:VerifyExecutionOptions.Target>
+                  <uix:VerifyExecutionOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionOptions.Timeout>
+                </uix:VerifyExecutionOptions>
+              </uix:NClick.VerifyOptions>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Overzicht'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,269.6" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="5ea261b8-95b6-4d39-be5a-02fc3b415e0f" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" DesignTimeRectangle="11, 483, 273, 40" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' Overzicht ' parentclass='sidebar-nav sidebar-subnav collapse show' /&gt;" Guid="2551cfc4-abda-4f68-a6e8-d59c2da9afdf" InformativeScreenshot="a77544e63b8b8a09c7e0ad5addc689a3.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedenavond Olaf!' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None" />
+              </uix:NClick.Target>
+              <uix:NClick.VerifyOptions>
+                <uix:VerifyExecutionOptions DisplayName="Verification target" Mode="Appears">
+                  <uix:VerifyExecutionOptions.Target>
+                    <uix:TargetAnchorable BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/people" ContentHash="iSmmYt7ZSUy05yFNb6umKA" DesignTimeRectangle="1699, 259, 186, 39" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname=' Persoon toevoegen ' /&gt;" Guid="08b18778-7d54-493d-9325-217fadfee089" InformativeScreenshot="c7e52db5cb442f505866e24262ae7dd2.png" Reference="UkcggOlm2EKWnk4wPmGCWQ/LH4PNrFaREGkf6OCcxMfhA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Personen overzicht' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None" />
+                  </uix:VerifyExecutionOptions.Target>
+                  <uix:VerifyExecutionOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionOptions.Timeout>
+                </uix:VerifyExecutionOptions>
+              </uix:NClick.VerifyOptions>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Persoon toevoegen'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,188.8" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="5ea261b8-95b6-4d39-be5a-02fc3b415e0f" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/people" ContentHash="iSmmYt7ZSUy05yFNb6umKA" DesignTimeRectangle="1699, 259, 186, 39" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname=' Persoon toevoegen ' /&gt;" Guid="08b18778-7d54-493d-9325-217fadfee089" InformativeScreenshot="c7e52db5cb442f505866e24262ae7dd2.png" Reference="UkcggOlm2EKWnk4wPmGCWQ/LH4PNrFaREGkf6OCcxMfhA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Personen overzicht' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None" />
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.OCREngine>
+        <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+          <ActivityFunc.Argument>
+            <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+          </ActivityFunc.Argument>
+        </ActivityFunc>
+      </uix:NApplicationCard.OCREngine>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="5PaXd47aGUCsNI08ULY1ww" IconBase64="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" InformativeScreenshot="997ee30da3aeeeb942fc3508fbfb564f.jpg" Reference="UkcggOlm2EKWnk4wPmGCWQ/kNvTdnW6k0OtyWvqUPalGQ" Selector="&lt;html app='chrome.exe' title='Goedenavond*' /&gt;" Url="https://verenigingsmanager.knsb.nl/" Version="V2" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

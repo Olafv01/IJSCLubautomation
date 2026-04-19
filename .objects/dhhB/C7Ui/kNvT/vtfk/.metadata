@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IJsclub Nut en Vermaak",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vtfkHeWe9U2SSP92gx9yBw",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/vtfkHeWe9U2SSP92gx9yBw",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/kNvTdnW6k0OtyWvqUPalGQ",
+  "Created": "2026-01-26T19:53:44.7490527Z",
+  "Updated": "2026-01-26T19:53:44.7490527Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

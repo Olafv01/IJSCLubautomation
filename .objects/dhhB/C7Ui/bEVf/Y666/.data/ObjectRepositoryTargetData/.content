@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F0FbfywV30-Xo034K1j7sA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/people" DesignTimeRectangle="1153, 382, 108, 39" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname=' Exporteer ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='BUTTON' type='button' check:text='Exporteer' /&gt;" Guid="e244973f-cb32-48b7-a1aa-936b316c56b3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Personen overzicht' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="19f1e80cae722349b4841acdc8e6e6be.png" xmlns="">0T1qBDyLltk2YtCDM5lJilw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

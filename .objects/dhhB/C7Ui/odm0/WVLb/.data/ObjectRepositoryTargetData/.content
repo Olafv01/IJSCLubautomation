@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B8kA1k3HNUaYU_m0nT31IQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/person/10163416" DesignTimeRectangle="975, 287, 223, 41" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' placeholder='dd-mm-jjjj' /&gt;" Guid="336ce8e5-15fd-4564-bf5b-f7ab6c5de671" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Persoon Olaf Verburg' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1708c048344b52571c7fd583333f4171.png" xmlns="">0COhHOP7Y_0OQgZB7G4JW3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

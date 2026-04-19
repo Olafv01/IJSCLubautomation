@@ -1,0 +1,17 @@
+﻿{
+  "Name": "PlaatjePersoon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "BpS8kyyFUkuYiw4qgivMYQ",
+  "Reference": "UkcggOlm2EKWnk4wPmGCWQ/BpS8kyyFUkuYiw4qgivMYQ",
+  "ParentRef": "UkcggOlm2EKWnk4wPmGCWQ/odm0Gg9fUkCssbSV0QRLog",
+  "Created": "2026-01-26T20:20:46.2186789Z",
+  "Updated": "2026-01-26T20:21:35.3540281Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

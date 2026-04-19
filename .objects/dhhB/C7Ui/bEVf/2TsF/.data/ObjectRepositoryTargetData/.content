@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WDZbridwEE6Xgg03rqvfFA" Reference="UkcggOlm2EKWnk4wPmGCWQ/2TsF-qis3EiqnqIkNF0k9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/Account/Login" DesignTimeRectangle="689, 627, 560, 47" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' aaname='Gebruikersnaam' type='text' /&gt;" Guid="befd5e08-83c5-4501-b011-342627d8a45a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in - KNSB' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a2e6757da73f977a6b244e6f381f281.png" xmlns="">09B4KiSeqZkWwG2rpYjHf9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

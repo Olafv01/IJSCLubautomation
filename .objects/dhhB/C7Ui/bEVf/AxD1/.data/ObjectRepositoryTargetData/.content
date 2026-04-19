@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cxR8WObOMEWZtbeIW8khAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="verenigingsmanager.knsb.nl/management/d0dd693a-592b-4cac-b68e-59cbd46df830/management/dashboard" DesignTimeRectangle="11, 483, 273, 40" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__BVID__30' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='A' aaname=' Overzicht ' /&gt;" Guid="ebddc9b2-2f43-47b0-baf3-bccca46caa37" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Goedemiddag Olaf!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb75dfab6d9aae0ca16de214184c817c.png" xmlns="">098DDxlXi9kqE9OL3b_wX2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
